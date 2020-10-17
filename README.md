@@ -1,4 +1,4 @@
-[![Macroid-Extras Status](https://img.shields.io/youtube/views/q4kZvWQy9pQ?style=social)](https://www.youtube.com/watch?v=q4kZvWQy9pQ&feature=youtu.be)
+[![Macroid-Extras Status](https://img.shields.io/youtube/views/q4kZvWQy9pQ?style=social)](https://www.youtube.com/watch?v=q4kZvWQy9pQ)
 [![Slides](https://img.shields.io/badge/Download-Slides-brightgreen)](https://github.com/balath/creatividad-es-una-m/raw/main/%23Creatividad_es_una_m.odp)
 
 # #Creatividad_es_una_m
