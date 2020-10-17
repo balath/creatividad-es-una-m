@@ -9,9 +9,14 @@ Slides de la charla ofrecida en la PEUMConf2020, que puedes ver en este [enlace 
 + Gardner, Howard (1993). Mentes creativas. 
 + Huidobro, Teresa (2002). Una definición de la creatividad a través del estudio de 24 autores seleccionados. UCM, Facultad de Psicología. Tesis doctoral.
 
-+ Parnas, David (1971). On the criteria to be used in decomposing systems into modules. CMU, Dept. of Computer Science. 
++ Parnas, David (1971). [On the criteria to be used in decomposing systems into modules][Parnas]. CMU, Dept. of Computer Science. 
 + Liskov, Barbara (1972). A design methodology for reliable software systems. MITRE Corp., Fall Joint Computer Conference
 + DeMarco (1979). Structured analysis and system specification.
 + Martin, Robert C. (2000). Design Principles and Design Patterns . www.objectmentor.com
 + Evans, Eric (2004) (Ed. Avram, Abel). Domain-Driven Design Quickly (A summary of Eric Evans' Domain-Driven Design) 
 + Cockburn, Alistair (2005):  Hexagonal architecture 
+
+
+
+[\\]: # (Links)
+[Parnas]: https://prl.ccs.neu.edu/img/p-tr-1971.pdf
