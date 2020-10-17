@@ -1,5 +1,5 @@
 ![Macroid-Extras Status](https://img.shields.io/youtube/views/q4kZvWQy9pQ?style=social)
-[![Slides](https://img.shields.io/badge/Speech-Slides-brightgreen)](https://github.com/balath/creatividad-es-una-m/raw/main/%23Creatividad_es_una_m.odp)
+[![Slides](https://img.shields.io/badge/Download-Slides-brightgreen)](https://github.com/balath/creatividad-es-una-m/raw/main/%23Creatividad_es_una_m.odp)
 
 # #Creatividad_es_una_m
 ### Una aproximación con alta cohesión y bajo acoplamiento  al concepto de creatividad aplicado al desarrollo de software
