@@ -1,7 +1,7 @@
 ![Macroid-Extras Status](https://img.shields.io/youtube/views/q4kZvWQy9pQ?style=social)
 ![Slides](https://img.shields.io/badge/Speech-Slides-brightgreen)
 
-# #Creatividad-es-una-m
+# #Creatividad_es_una_m
 ### Una aproximación con alta cohesión y bajo acoplamiento  al concepto de creatividad aplicado al desarrollo de software
 Slides de la charla ofrecida en la PEUMConf2020, que puedes ver en este [enlace de YouTube][YouTube]
 
@@ -11,7 +11,7 @@ Slides de la charla ofrecida en la PEUMConf2020, que puedes ver en este [enlace 
 + Gardner, Howard (1982).  Arte, mente y cerebro: una aproximación cognitiva a la creatividad. 
 + Gardner, Howard (1993). Mentes creativas. 
 + Huidobro, Teresa (2002). Una definición de la creatividad a través del estudio de 24 autores seleccionados. UCM, Facultad de Psicología. Tesis doctoral.
-
+---
 + Parnas, David (1971). [On the criteria to be used in decomposing systems into modules][Parnas]. CMU, Dept. of Computer Science. 
 + Liskov, Barbara (1972). [A design methodology for reliable software systems][Liskov]. MITRE Corp., Fall Joint Computer Conference
 + DeMarco (1979). [Structured analysis and system specification][DeMarco].
